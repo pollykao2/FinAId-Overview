@@ -42,6 +42,14 @@ AI 模組由其他團隊成員負責。
 
 [觀看系統展示影片](https://drive.google.com/file/d/1Y-GIoRRxVUC3Tn1ZhmGtGZMyK1tnRp8N/view?usp=sharing)
 
+Project Documentation
+
+[完整畢業專題報告書](https://docs.google.com/document/d/1SBYIgWytpCboNf8zSPX1DUghPq-U0VD6fuWRmTauX8U/edit?usp=sharing)
+
+本報告書為團隊共同完成之畢業專題文件，涵蓋專案背景、需求分析、系統設計、功能實作及成果展示，可進一步了解 FinAId 的開發流程與系統架構。
+
+個人負責項目請參考上方 My Contributions 章節。
+
 ## Achievement
 
 獲輔仁大學資管系第 42 屆畢業專題發表佳作。
